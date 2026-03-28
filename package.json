@@ -1,0 +1,11 @@
+{
+  "name": "ganzalora",
+  "version": "1.0.0",
+  "description": "Ganzalora - Digital Solutions Platform Landing Page",
+  "scripts": {
+    "dev": "npx serve .",
+    "deploy": "npx wrangler pages deploy . --project-name=ganzalora"
+  },
+  "author": "Ganzalora",
+  "license": "MIT"
+}

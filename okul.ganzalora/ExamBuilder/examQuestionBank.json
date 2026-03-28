@@ -1,0 +1,170 @@
+{
+  "questionTypes": [
+    {
+      "id": "reading-qa",
+      "label": "Okuma Parçası + Sorular",
+      "description": "Bir metin/broşür okuyup soruları cevaplama"
+    },
+    {
+      "id": "email-writing",
+      "label": "Email Yazma",
+      "description": "Bir duyuruya yanıt olarak email yazma"
+    },
+    {
+      "id": "story-table",
+      "label": "Hikaye + Tablo Tamamlama",
+      "description": "Bir hikaye okuyup tabloyu tamamlama"
+    },
+    {
+      "id": "chronological-order",
+      "label": "Kronolojik Sıralama",
+      "description": "Olayları doğru sıraya koyma"
+    },
+    {
+      "id": "paraphrase",
+      "label": "Paraphrase (Başka Sözcüklerle Yazma)",
+      "description": "Bir haberi başka cümlelerle yeniden yazma"
+    },
+    {
+      "id": "word-clue",
+      "label": "Kelime Bulma (İpucu)",
+      "description": "Metinden ipuçlarına göre kelime bulma"
+    },
+    {
+      "id": "brochure-fill",
+      "label": "Broşür / Poster Tamamlama",
+      "description": "Broşür veya poster bilgilerini doldurma"
+    }
+  ],
+  "questions": [
+    {
+      "id": "s1-a",
+      "type": "reading-qa",
+      "section": "A",
+      "source": "Senaryo 1",
+      "scoring": "3x10=30",
+      "passage": "Green Future Association is an environmental nonprofit organization founded in 2015 in İzmir. The association works to fight climate change and increase public awareness about environmental protection.\n\nThe organization invites everyone to join their Tree Planting Campaign on April 18th at 10:00 a.m. at İnciraltı City Park.\n\nThe aim of the campaign is to plant 5,000 trees in one day.\n\n\"Plant Today, Breathe Tomorrow\"\n\nAll donations will be used for purchasing seedlings.",
+      "instruction": "Read the brochure and answer the questions.",
+      "items": [
+        "What is the aim of the campaign?",
+        "Where was the association founded?",
+        "What will donations be used for?"
+      ]
+    },
+    {
+      "id": "s2-a",
+      "type": "reading-qa",
+      "section": "A",
+      "source": "Senaryo 2",
+      "scoring": "4x5=20",
+      "passage": "Sports for All Foundation was established in 2008 in Amsterdam by former athletes. The organization focuses on providing free sports training for children with disabilities.\n\nThe foundation organizes international sports camps every summer and works in cooperation with local schools. More than 1,200 children benefit from its programs each year.\n\nIts mission is to ensure equal access to sports and promote inclusion. Donations are mainly collected through annual charity football matches.",
+      "instruction": "Read the brochure and answer the questions.",
+      "items": [
+        "What is the main mission of the foundation?",
+        "Which group of children does the foundation support?",
+        "How are donations mainly collected?",
+        "Who does the foundation cooperate with?"
+      ]
+    },
+    {
+      "id": "s3-a",
+      "type": "brochure-fill",
+      "section": "A",
+      "source": "Senaryo 3",
+      "scoring": "4x5=20",
+      "passage": "Green Future Association is an environmental nonprofit organization founded in 2015 in İzmir. The association works to fight climate change and increase public awareness about environmental protection.\n\nThe organization invites everyone to join their Tree Planting Campaign on April 18th at 10:00 a.m. at İnciraltı City Park.\n\nThe aim of the campaign is to plant 5,000 trees in one day.\n\n\"Plant Today, Breathe Tomorrow\"\n\nAll donations will be used for purchasing seedlings.",
+      "instruction": "Read the brochure and complete the phrases with the correct details.",
+      "items": [
+        "Foundation year:",
+        "Campaign date:",
+        "Venue:",
+        "Motto:"
+      ]
+    },
+    {
+      "id": "s1-b",
+      "type": "email-writing",
+      "section": "B",
+      "source": "Senaryo 1",
+      "scoring": "5x4=20",
+      "passage": "",
+      "instruction": "Read the scholarship announcement and write an email in response to it. (At least 5 sentences)",
+      "items": [
+        "Introduce yourself (name, field of study).",
+        "Explain why you are writing.",
+        "Mention your academic success.",
+        "Explain why you need the scholarship.",
+        "Say why you are a suitable candidate.",
+        "End your email politely."
+      ]
+    },
+    {
+      "id": "s1-c",
+      "type": "story-table",
+      "section": "C",
+      "source": "Senaryo 1",
+      "scoring": "5x5=25",
+      "passage": "The Lost Boat\n\nLast summer, Alex and Tom decided to go fishing on Blue Lake. They had prepared their equipment and started their trip early in the morning. At first, the weather was calm and the lake looked peaceful.\n\nHowever, in the afternoon, dark clouds suddenly appeared and a strong storm began. The wind pushed their small boat far away from the shore. Soon, they realized they had lost their direction in the middle of the lake.\n\nFear started to grow, but Alex remembered the emergency radio on the boat. He quickly turned it on and sent a signal for help. Meanwhile, Tom tried to keep the boat steady in the rough water.\n\nFortunately, the coast guard received their message and started a rescue operation. After nearly two hours, the rescue team located the boat and safely brought the two friends back to shore.",
+      "instruction": "Read the short story and complete the table.",
+      "items": [
+        "Setting",
+        "Time",
+        "Characters",
+        "Atmosphere",
+        "Climax"
+      ]
+    },
+    {
+      "id": "s1-d",
+      "type": "chronological-order",
+      "section": "D",
+      "source": "Senaryo 1",
+      "scoring": "5x5=25",
+      "passage": "Yesterday afternoon, Greenwood High School organized its annual spring festival in the school garden. The event attracted hundreds of students, parents, and teachers.\n\nThe festival began at 2:00 PM when the school principal opened the event with a short welcome speech. First, students from the music club performed several popular songs on the stage. Then, the drama club presented a short comedy play that made the audience laugh.\n\nMeanwhile, visitors walked around the school yard and tried food from different stands prepared by students and teachers. Later, the sports club organized fun games and competitions for the students.\n\nIn the end, the festival finished with a colorful dance show by the senior students. Everyone enjoyed the lively atmosphere and the school community celebrated a successful day together.",
+      "instruction": "Read the news story below. Then, number the statements (1-5) to put them in the correct chronological order.",
+      "items": [
+        "Students from the music club performed songs on the stage.",
+        "The school principal opened the festival with a speech.",
+        "The drama club performed a comedy play.",
+        "The festival ended with a dance performance by senior students.",
+        "Visitors tried food and participated in fun games."
+      ]
+    },
+    {
+      "id": "s2-d",
+      "type": "paraphrase",
+      "section": "D",
+      "source": "Senaryo 2",
+      "scoring": "2x10=20",
+      "passage": "A recent health study shows that eating breakfast helps students do much better in school. Researchers found that kids who eat a morning meal have more energy and pay better attention in class. Because of this, doctors advise parents to make sure their children eat before leaving the house.",
+      "instruction": "Read the news below and paraphrase it in at least two sentences.",
+      "items": []
+    },
+    {
+      "id": "s3-b",
+      "type": "word-clue",
+      "section": "B",
+      "source": "Senaryo 3",
+      "scoring": "5x4=20",
+      "passage": "Last night, a large fire broke out in a historic hotel downtown. As the flames began to spread, firefighters rushed to the scene. First, the rescue teams managed to evacuate all the guests from the burning building. Fortunately, everyone survived the terrifying event without any serious injuries.\n\nAfter the fire was put out, the police questioned several witnesses to understand exactly what had happened. Investigators are suspicious that an old heater in the basement caused the fire. Although the exact cost of the damage is still unknown, the estimated loss is over two million dollars. People in the town consider it a true miracle that no lives were lost.",
+      "instruction": "Read the text about the hotel fire. Based on the clues provided, find and list the exact word used in the text.",
+      "items": [
+        "Clue: Stayed alive after a dangerous event.",
+        "Clue: Feeling that something is wrong or caused by someone on purpose.",
+        "Clue: To safely move people out of a dangerous building or place.",
+        "Clue: A wonderful or amazing event that is very hard to believe.",
+        "Clue: People who see an accident or event happen and can tell others about it."
+      ]
+    },
+    {
+      "id": "s3-e",
+      "type": "paraphrase",
+      "section": "E",
+      "source": "Senaryo 3",
+      "scoring": "2x10=20",
+      "passage": "A new study shows that walking in a park can greatly improve your mood. Scientists discovered that people who take a short walk every day feel less stressed and more relaxed. Because of this, health experts suggest that everyone should spend a little more time outdoors.",
+      "instruction": "Read the news below and paraphrase it in at least two sentences.",
+      "items": []
+    }
+  ]
+}

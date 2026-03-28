@@ -1,0 +1,511 @@
+{
+  "9": [
+    {
+      "hafta": 1,
+      "gelisimAlani": "Akademik",
+      "yeterlilikAlani": "Okula ve Okulun Çevresine Uyum",
+      "kazanim": "Okulun yakın çevresini, bölümlerini ve okulda çalışan personeli tanır",
+      "etkinlikBasligi": "HOŞ GELDİN DOSTUM!"
+    },
+    {
+      "hafta": 2,
+      "gelisimAlani": "Akademik",
+      "yeterlilikAlani": "Okula ve Okulun Çevresine Uyum",
+      "kazanim": "Eğitim öğretim sürecine ilişkin yönetmeliğin kendisini ilgilendiren kısım- ları hakkında bilgi sahibi olur.",
+      "etkinlikBasligi": "BİLMEKTE FAYDA VAR"
+    },
+    {
+      "hafta": 3,
+      "gelisimAlani": "Kariyer",
+      "yeterlilikAlani": "Kariyer Farkındalığı",
+      "kazanim": "İlgi ve hobilerini ayırt eder.",
+      "etkinlikBasligi": "İLGİ VE HOBİ KORİDORU"
+    },
+    {
+      "hafta": 4,
+      "gelisimAlani": "Akademik",
+      "yeterlilikAlani": "Okula ve Okulun Çevresine Uyum",
+      "kazanim": "Okulunun ve sınıfının bir üyesi olduğunu fark eder.",
+      "etkinlikBasligi": "ÇİMENTO DUYGULAR"
+    },
+    {
+      "hafta": 5,
+      "gelisimAlani": "Akademik",
+      "yeterlilikAlani": "Akademik Anlayış ve Sorumluluk",
+      "kazanim": "Okul hazırlığına ilişkin sorumluluklarını üstlenir.",
+      "etkinlikBasligi": "“KEŞKE”LERİN DEĞİL “İYİ Kİ”LERİN OLSUN"
+    },
+    {
+      "hafta": 6,
+      "gelisimAlani": "Akademik",
+      "yeterlilikAlani": "Okula ve Okulun Çevresine Uyum",
+      "kazanim": "Okulun eğitsel imkânları hakkında bilgi edinir.",
+      "etkinlikBasligi": "NELER OLUYOR OKULDA?"
+    },
+    {
+      "hafta": 7,
+      "gelisimAlani": "Sosyal Duygusal",
+      "yeterlilikAlani": "Benlik Farkındalığı",
+      "kazanim": "Yaşam değerlerinin farkına varır",
+      "etkinlikBasligi": "DEĞERLERİMLE DEĞERLİYİM"
+    },
+    {
+      "hafta": 8,
+      "gelisimAlani": "Kariyer",
+      "yeterlilikAlani": "Kariyer Farkındalığı",
+      "kazanim": "Kendi mesleki değerlerinin farkına varır.",
+      "etkinlikBasligi": "HANGİ MESLEK HANGİ DEĞER?"
+    },
+    {
+      "hafta": 9,
+      "gelisimAlani": "Kariyer",
+      "yeterlilikAlani": "Kariyer Farkındalığı",
+      "kazanim": "Kendi mesleki değerlerinin farkına varır.",
+      "etkinlikBasligi": "MESLEKİ DEĞERLERİM NE DURUMDA?"
+    },
+    {
+      "hafta": 10,
+      "gelisimAlani": "Akademik",
+      "yeterlilikAlani": "Eğitsel Planlama ve Başarı",
+      "kazanim": "Akademik gelişimi için amaçlar oluşturur.",
+      "etkinlikBasligi": "AMAÇ DEYİP GEÇME"
+    },
+    {
+      "hafta": 11,
+      "gelisimAlani": "Akademik",
+      "yeterlilikAlani": "Akademik Anlayış ve Sorumluluk",
+      "kazanim": "Okula devam etme ile akademik gelişimi arasındaki ilişkiyi değerlendirir.",
+      "etkinlikBasligi": "AKADEMİK GELİŞİM MERDİVENİ"
+    },
+    {
+      "hafta": 12,
+      "gelisimAlani": "Sosyal Duygusal",
+      "yeterlilikAlani": "Duyguları Anlama ve Yönetme",
+      "kazanim": "Kişilerarası ilişkilerde duyguları ifade etmenin önemini fark eder.",
+      "etkinlikBasligi": "İLİŞKİLERİMİN ENSTRÜMANI: DUYGULAR"
+    },
+    {
+      "hafta": 13,
+      "gelisimAlani": "Kariyer",
+      "yeterlilikAlani": "Kariyer Farkındalığı",
+      "kazanim": "Yaşam değerleri ile meslek değerlerini ayırt eder.",
+      "etkinlikBasligi": "DEĞERİNİ BİLMEK"
+    },
+    {
+      "hafta": 14,
+      "gelisimAlani": "Akademik",
+      "yeterlilikAlani": "Okula ve Okulun Çevresine Uyum",
+      "kazanim": "Okul ve çevresinde risk oluşturabilecek durum ve ortamlara karşı kendisini korur.",
+      "etkinlikBasligi": "RİSKLİ DURUM GÜVENLİ DAVRANIŞ"
+    },
+    {
+      "hafta": 15,
+      "gelisimAlani": "Kariyer",
+      "yeterlilikAlani": "Kariyer Farkındalığı",
+      "kazanim": "Kısa ve uzun vadeli kariyer amaçlarını tekrar inceler.",
+      "etkinlikBasligi": "AKLIMDA"
+    },
+    {
+      "hafta": 16,
+      "gelisimAlani": "Sosyal Duygusal",
+      "yeterlilikAlani": "Benlik Farkındalığı",
+      "kazanim": "Fiziksel, duygusal, sosyal ve kültürel açıdan bireysel farklılıkları kabul eder.",
+      "etkinlikBasligi": "FARKLI PARÇALAR TEK BİR BÜTÜN"
+    },
+    {
+      "hafta": 17,
+      "gelisimAlani": "Kariyer",
+      "yeterlilikAlani": "Kariyer Farkındalığı",
+      "kazanim": "Mesleklerin zaman içindeki değişimini ve gelişimini takip eder.",
+      "etkinlikBasligi": "MESLEKLERE NE OLUYOR?"
+    },
+    {
+      "hafta": 18,
+      "gelisimAlani": "Sosyal Duygusal",
+      "yeterlilikAlani": "Kişiler Arası Beceriler",
+      "kazanim": "Zorbalık ve türlerini bilir.",
+      "etkinlikBasligi": "BİR TORBADA DÖRT ZORBA"
+    },
+    {
+      "hafta": 19,
+      "gelisimAlani": "Sosyal Duygusal",
+      "yeterlilikAlani": "Kişiler Arası Beceriler",
+      "kazanim": "Başlangıç sosyal becerilerini kullanır.",
+      "etkinlikBasligi": "İLETİŞİM KÖPRÜSÜNÜN İKİ AYAĞI:"
+    },
+    {
+      "hafta": 20,
+      "gelisimAlani": "Sosyal Duygusal",
+      "yeterlilikAlani": "Kişiler Arası Beceriler",
+      "kazanim": "Başlangıç sosyal becerilerini kullanır.",
+      "etkinlikBasligi": "SOSYAL AĞDAN SOSYAL BAĞA"
+    },
+    {
+      "hafta": 21,
+      "gelisimAlani": "Sosyal Duygusal",
+      "yeterlilikAlani": "Kişisel Güvenliğini Sağlama",
+      "kazanim": "İyilik hâlini destekleyen davranışlar açısından kendini gözden geçirir.",
+      "etkinlikBasligi": "İYİLİK SAĞLIK"
+    },
+    {
+      "hafta": 22,
+      "gelisimAlani": "Kariyer",
+      "yeterlilikAlani": "Kariyer Planlama",
+      "kazanim": "Kendi özellikleriyle kariyer kararlarını ilişkilendirir",
+      "etkinlikBasligi": "BENİM HAYATIM BENİM KARARIM"
+    },
+    {
+      "hafta": 23,
+      "gelisimAlani": "Sosyal Duygusal",
+      "yeterlilikAlani": "Kişisel Güvenliğini Sağlama",
+      "kazanim": "Siber zorbalığın yaşamındaki etkilerini fark eder.",
+      "etkinlikBasligi": "SİBER ZORBALIĞIN SÜPER FARKINDALIĞI"
+    },
+    {
+      "hafta": 24,
+      "gelisimAlani": "Sosyal Duygusal",
+      "yeterlilikAlani": "Kişiler Arası Beceriler",
+      "kazanim": "Zorbalıkla baş etme yollarını kullanır.",
+      "etkinlikBasligi": "ZORBALAR ZORDALAR!"
+    },
+    {
+      "hafta": 25,
+      "gelisimAlani": "Sosyal Duygusal",
+      "yeterlilikAlani": "Kişiler Arası Beceriler",
+      "kazanim": "Sanal arkadaşlığı arkadaşlık ilişkileri kapsamında sorgular.",
+      "etkinlikBasligi": "SANAL KANKA"
+    },
+    {
+      "hafta": 26,
+      "gelisimAlani": "Sosyal Duygusal",
+      "yeterlilikAlani": "Benlik Farkındalığı",
+      "kazanim": "Sahip olduğu karakter güçlerini fark eder.",
+      "etkinlikBasligi": "GÜÇ BENDE ARTIK"
+    },
+    {
+      "hafta": 27,
+      "gelisimAlani": "Sosyal Duygusal",
+      "yeterlilikAlani": "Benlik Farkındalığı",
+      "kazanim": "Sahip olduğu karakter güçlerini fark eder.",
+      "etkinlikBasligi": "TÜM GÜCÜMLE UÇUYORUM"
+    },
+    {
+      "hafta": 28,
+      "gelisimAlani": "Kariyer",
+      "yeterlilikAlani": "Kariyer Hazırlığı",
+      "kazanim": "Alan/bölüm/dal/ders seçiminde ilgi, yetenek ve mesleki değerleri dikkate alır.",
+      "etkinlikBasligi": "YETENEK, İLGİ VE DEĞERLERİMİ DİKKATE ALIYORUM"
+    },
+    {
+      "hafta": 29,
+      "gelisimAlani": "Sosyal Duygusal",
+      "yeterlilikAlani": "Kişisel Güvenliğini Sağlama",
+      "kazanim": "Kişisel güvenliği için ‘’Hayır!’’ demeyi alışkanlık hâline getirir.",
+      "etkinlikBasligi": "GÜVENLİK DUVARIM"
+    },
+    {
+      "hafta": 30,
+      "gelisimAlani": "Sosyal Duygusal",
+      "yeterlilikAlani": "Benlik Farkındalığı",
+      "kazanim": "Toplumsal rollerinin gerektirdiği sorumlulukları yerine getirmediğinde karşılaşabileceği sorunları değerlendirir.",
+      "etkinlikBasligi": "ROLDEN ROLE"
+    },
+    {
+      "hafta": 31,
+      "gelisimAlani": "Sosyal Duygusal",
+      "yeterlilikAlani": "Benlik Farkındalığı",
+      "kazanim": "Sahip olduğu karakter güçlerini zorluklar karşısında kullanmayı bilir.",
+      "etkinlikBasligi": "ÇÖZÜM KARAKTERİMDE"
+    },
+    {
+      "hafta": 32,
+      "gelisimAlani": "Kariyer",
+      "yeterlilikAlani": "Kariyer Planlama",
+      "kazanim": "Kariyer hazırlığı sürecinde belirlediği amaçlar doğrultusunda alan/dal/ders seçiminde karar verme becerisini kullanır.",
+      "etkinlikBasligi": "ALAN PUSULAM"
+    },
+    {
+      "hafta": 33,
+      "gelisimAlani": "Kariyer",
+      "yeterlilikAlani": "Kariyer Planlama",
+      "kazanim": "Kariyer hazırlığı sürecinde belirlediği amaçlar doğrultusunda alan/dal/ders seçiminde karar verme becerisini kullanır.",
+      "etkinlikBasligi": "ADIM ADIM ALANIM"
+    },
+    {
+      "hafta": 34,
+      "gelisimAlani": "Sosyal Duygusal",
+      "yeterlilikAlani": "Kişisel Güvenliğini Sağlama",
+      "kazanim": "Kimden, nereden, ne zaman ve nasıl yardım isteyebileceğini bilir.",
+      "etkinlikBasligi": "İHTİYAÇ DUYDUĞUMDA BİLİRİM Kİ…"
+    },
+    {
+      "hafta": 35,
+      "gelisimAlani": "Akademik",
+      "yeterlilikAlani": "Eğitsel Planlama ve Başarı",
+      "kazanim": "Akademik amaçlarını gerçekleştirme konusunda kendini değerlendirir.",
+      "etkinlikBasligi": "BAŞARI YÖNTEMLERİM"
+    },
+    {
+      "hafta": 36,
+      "gelisimAlani": "Ortak",
+      "yeterlilikAlani": "Ortak",
+      "kazanim": "Sınıf rehberlik programı etkinliklerine/yaşantılarına ilişkin duygu ve düşüncelerini yansıtır.",
+      "etkinlikBasligi": "NELERİ HATIRLIYORUM?"
+    }
+  ],
+  "10": [
+    {
+      "hafta": 1,
+      "gelisimAlani": "Akademik",
+      "yeterlilikAlani": "Akademik Anlayış ve Sorumluluk",
+      "kazanim": "Okul içinde ve dışında eğitsel ve sosyal etkinliklere katılmanın gelişimine katkılarını değerlendirir.",
+      "etkinlikBasligi": "ŞEFİM! BİZE BİR FAALİYET!"
+    },
+    {
+      "hafta": 2,
+      "gelisimAlani": "Kariyer",
+      "yeterlilikAlani": "Kariyer Farkındalığı",
+      "kazanim": "Okul içinde veya dışında etkinliklere katılırken ilgi ve yeteneklerini dikkate alır.",
+      "etkinlikBasligi": "HANGİ İSTASYON?"
+    },
+    {
+      "hafta": 3,
+      "gelisimAlani": "Kariyer",
+      "yeterlilikAlani": "Kariyer Farkındalığı",
+      "kazanim": "Alan/bölüm/dal/ders seçiminde ilgi, yetenek ve mesleki değerleri dikkate alır.",
+      "etkinlikBasligi": "SEÇİM PUSULASI"
+    },
+    {
+      "hafta": 4,
+      "gelisimAlani": "Sosyal Duygusal",
+      "yeterlilikAlani": "Karar Verme",
+      "kazanim": "Yaşamındaki karar verme sürecini etkileyen faktörleri açıklar.",
+      "etkinlikBasligi": "SON KARARIM"
+    },
+    {
+      "hafta": 5,
+      "gelisimAlani": "Sosyal Duygusal",
+      "yeterlilikAlani": "Karar Verme",
+      "kazanim": "Karar alma basamaklarını kullanır.",
+      "etkinlikBasligi": "EKSİK PARÇALAR"
+    },
+    {
+      "hafta": 6,
+      "gelisimAlani": "Akademik",
+      "yeterlilikAlani": "Eğitsel Planlama ve Başarı",
+      "kazanim": "Öğrenme ve verimli çalışma stratejilerini açıklar.",
+      "etkinlikBasligi": "AKLIMDAN UÇURMA"
+    },
+    {
+      "hafta": 7,
+      "gelisimAlani": "Akademik",
+      "yeterlilikAlani": "Eğitsel Planlama ve Başarı",
+      "kazanim": "Öğrenme ve verimli çalışma stratejilerini açıklar",
+      "etkinlikBasligi": "STRATEJİK MİYİM?"
+    },
+    {
+      "hafta": 8,
+      "gelisimAlani": "Akademik",
+      "yeterlilikAlani": "Eğitsel Planlama ve Başarı",
+      "kazanim": "Hatırlamayı zorlaştıran ve unutmaya neden olan faktörleri açıklar.",
+      "etkinlikBasligi": "DİLİMİN UCUNDA"
+    },
+    {
+      "hafta": 9,
+      "gelisimAlani": "Akademik",
+      "yeterlilikAlani": "Eğitsel Planlama ve Başarı",
+      "kazanim": "Öğrenme ve verimli çalışma stratejilerini kullanma açısından kendisini değerlendirir",
+      "etkinlikBasligi": "BEN BUNU NASIL ÖĞRENDİM?"
+    },
+    {
+      "hafta": 10,
+      "gelisimAlani": "Kariyer",
+      "yeterlilikAlani": "Kariyer Hazırlığı",
+      "kazanim": "Kısa ve uzun vadeli kariyer amaçlarını belirler.",
+      "etkinlikBasligi": "ADIM ADIM"
+    },
+    {
+      "hafta": 11,
+      "gelisimAlani": "Kariyer",
+      "yeterlilikAlani": "Kariyer Hazırlığı",
+      "kazanim": "Kısa ve uzun vadeli kariyer amaçlarını belirler.",
+      "etkinlikBasligi": "YAKINLAŞAN UZAK KARİYERİM"
+    },
+    {
+      "hafta": 12,
+      "gelisimAlani": "Akademik",
+      "yeterlilikAlani": "Kariyer Hazırlığı",
+      "kazanim": "Akademik amaçlarıyla seçmek istediği kariyerlerin gerektirdiği akademik koşullar arasında bağ kurar.",
+      "etkinlikBasligi": "BENİ NELER BEKLİYOR?"
+    },
+    {
+      "hafta": 13,
+      "gelisimAlani": "Sosyal Duygusal",
+      "yeterlilikAlani": "Benlik Farkındalığı",
+      "kazanim": "Beden imgesini etkileyen faktörler açısından kendini değerlendirir.",
+      "etkinlikBasligi": "BEDENİMİ SEVİYORUM, ALGILARIMI ETKİLEMEYİN!"
+    },
+    {
+      "hafta": 14,
+      "gelisimAlani": "Sosyal Duygusal",
+      "yeterlilikAlani": "Benlik Farkındalığı",
+      "kazanim": "Gelişim dönemi ile duygusal dalgalanmaları arasında bağ kurar.",
+      "etkinlikBasligi": "İÇİMDEKİ DENİZ"
+    },
+    {
+      "hafta": 15,
+      "gelisimAlani": "Kariyer",
+      "yeterlilikAlani": "Kariyer Hazırlığı",
+      "kazanim": "Kariyer beklentileri ile kariyer amaçlarını karşılaştırır.",
+      "etkinlikBasligi": "İSTEDİKLERİM VE UMDUKLARIM"
+    },
+    {
+      "hafta": 16,
+      "gelisimAlani": "Kariyer",
+      "yeterlilikAlani": "Kariyer Hazırlığı",
+      "kazanim": "Kariyer beklentileri ile kariyer amaçlarını karşılaştırır.",
+      "etkinlikBasligi": "UMDUĞUMU BULACAK MIYIM?"
+    },
+    {
+      "hafta": 17,
+      "gelisimAlani": "Kariyer",
+      "yeterlilikAlani": "Kariyer Hazırlığı",
+      "kazanim": "Kariyer karar verme süreçlerinde kendi görüşleri ile aile ve yakın çevresinin görüşlerini karşılaştırır.",
+      "etkinlikBasligi": "ÇEVREMDEKİLER BU İŞE NE DER?"
+    },
+    {
+      "hafta": 18,
+      "gelisimAlani": "Kariyer",
+      "yeterlilikAlani": "Kariyer Hazırlığı",
+      "kazanim": "Derslerin mesleklerle ilişkisini açıklar.",
+      "etkinlikBasligi": "DERS MESLEK İLİŞKİSİ"
+    },
+    {
+      "hafta": 19,
+      "gelisimAlani": "Kariyer",
+      "yeterlilikAlani": "Kariyer Planlama",
+      "kazanim": "Ders/alan/dal seçerken karar verme becerisini kullanır.",
+      "etkinlikBasligi": "KOLAY OLMAYACAK ELBET KARAR VERECEĞİM"
+    },
+    {
+      "hafta": 20,
+      "gelisimAlani": "Kariyer",
+      "yeterlilikAlani": "Kariyer Hazırlığı",
+      "kazanim": "Kariyer hazırlığı sürecinde belirlediği amaçlar doğrultusunda alan/dal/ders seçimi yapar.",
+      "etkinlikBasligi": "AMAÇLARIM YOLUNDA ÖNEMLİ ADIMLAR"
+    },
+    {
+      "hafta": 21,
+      "gelisimAlani": "Akademik",
+      "yeterlilikAlani": "Akademik Anlayış ve Sorumluluk",
+      "kazanim": "Eğitsel çabanın akademik hedeflere ulaşmadaki etkisini değerlendirir.",
+      "etkinlikBasligi": "ÇABALARSAM BAŞARABİLİRİM"
+    },
+    {
+      "hafta": 22,
+      "gelisimAlani": "Sosyal Duygusal",
+      "yeterlilikAlani": "Kişiler Arası Beceriler",
+      "kazanim": "Sosyal ipuçlarını yorumlayarak uygun tepkiler verir.",
+      "etkinlikBasligi": "SESSİZ DİLİMİZ"
+    },
+    {
+      "hafta": 23,
+      "gelisimAlani": "Sosyal Duygusal",
+      "yeterlilikAlani": "Benlik Farkındalığı",
+      "kazanim": "Sahip olduğu karakter güçlerini geliştirmek için çaba gösterir",
+      "etkinlikBasligi": "GÜÇLERİMDEN HABER VAR"
+    },
+    {
+      "hafta": 24,
+      "gelisimAlani": "Sosyal Duygusal",
+      "yeterlilikAlani": "Karar Verme",
+      "kazanim": "Yaşamda karşılaşılan zorlukların çaba ve zaman ile üstesinden gelinebileceğini fark eder.",
+      "etkinlikBasligi": "ZORLUKLARIMIN FARKINDAYIM"
+    },
+    {
+      "hafta": 25,
+      "gelisimAlani": "Sosyal Duygusal",
+      "yeterlilikAlani": "Karar Verme",
+      "kazanim": "Yaşamda karşılaşılan zorlukların çaba ve zaman ile üstesinden gelinebileceğini fark eder.",
+      "etkinlikBasligi": "VAZGEÇME, UMUT ET, ÇABALA"
+    },
+    {
+      "hafta": 26,
+      "gelisimAlani": "Sosyal Duygusal",
+      "yeterlilikAlani": "Kişiler Arası Beceriler",
+      "kazanim": "Çatışma çözme becerilerini kullanır.",
+      "etkinlikBasligi": "ÇATIŞMA ÇÖZMEK ARTIK KOLAY"
+    },
+    {
+      "hafta": 27,
+      "gelisimAlani": "Sosyal Duygusal",
+      "yeterlilikAlani": "Kişisel Güvenliğini Sağlama",
+      "kazanim": "İyilik hâline ilişkin edindiği bilgileri yaşamında uygulamayı alışkanlık hâline getirir.",
+      "etkinlikBasligi": "FİZİKSEL İYİLİK HÂLİ YOLCULUĞUNDA HER ŞEYİM TAMAM MI?"
+    },
+    {
+      "hafta": 28,
+      "gelisimAlani": "Sosyal Duygusal",
+      "yeterlilikAlani": "Kişisel Güvenliğini Sağlama",
+      "kazanim": "Bilişim teknolojileri kullanımında kendini yönetir.",
+      "etkinlikBasligi": "YÖNETİM BENDE Mİ?"
+    },
+    {
+      "hafta": 29,
+      "gelisimAlani": "Sosyal Duygusal",
+      "yeterlilikAlani": "Kişiler Arası Beceriler",
+      "kazanim": "Yerel ve küresel sorunları fark eder.",
+      "etkinlikBasligi": "YERELDE VE DÜNYADA NELER OLUYOR?"
+    },
+    {
+      "hafta": 30,
+      "gelisimAlani": "Akademik",
+      "yeterlilikAlani": "Akademik Anlayış ve Sorumluluk",
+      "kazanim": "Öğrenme ortamlarındaki duygularını düzenler.",
+      "etkinlikBasligi": "DUYGUMU DÜZENLEDİM ÖĞRENDİM"
+    },
+    {
+      "hafta": 31,
+      "gelisimAlani": "Sosyal Duygusal",
+      "yeterlilikAlani": "Kişiler Arası",
+      "kazanim": "Gerektiğinde arkadaşlığını sonlandırır",
+      "etkinlikBasligi": "TAMAM MI? DEVAM MI?"
+    },
+    {
+      "hafta": 32,
+      "gelisimAlani": "Sosyal Duygusal",
+      "yeterlilikAlani": "Kişiler Arası",
+      "kazanim": "Gerektiğinde arkadaşlığını sonlandırır",
+      "etkinlikBasligi": "ŞİDDET VARSA BEN YOKUM"
+    },
+    {
+      "hafta": 33,
+      "gelisimAlani": "Sosyal Duygusal",
+      "yeterlilikAlani": "Kişiler Arası Beceriler",
+      "kazanim": "Takım çalışmalarının kişisel gelişimine olan etkilerini fark eder.",
+      "etkinlikBasligi": "TAKIMIMLA GELİŞİYORUM"
+    },
+    {
+      "hafta": 34,
+      "gelisimAlani": "Sosyal Duygusal",
+      "yeterlilikAlani": "Kişisel Güvenliğini Sağlama",
+      "kazanim": "Kişisel hakların korunması ve kişisel güvenliğin sağlanması için yönergeleri izlemeyi alışkanlık hâline getirir.",
+      "etkinlikBasligi": "BİR ŞEY OLUR!"
+    },
+    {
+      "hafta": 35,
+      "gelisimAlani": "Sosyal Duygusal",
+      "yeterlilikAlani": "Kişiler Arası Beceriler",
+      "kazanim": "Doğal yaşamı korumak için duyarlı davranır.",
+      "etkinlikBasligi": "YERKÜREYE SAYGI"
+    },
+    {
+      "hafta": 36,
+      "gelisimAlani": "Ortak",
+      "yeterlilikAlani": "Ortak",
+      "kazanim": "Sınıf rehberlik programı etkinliklerine/yaşantılarına ilişkin duygu ve düşüncelerini yansıtır.",
+      "etkinlikBasligi": "NELERİ HATIRLIYORUM?"
+    }
+  ],
+  "11": []
+}

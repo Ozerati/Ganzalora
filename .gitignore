@@ -1,0 +1,10 @@
+
+# Büyük dosyalar - git'e eklenmemeli
+okul.ganzalora/Belgeception/rehberlik-pdfs/
+okul.ganzalora/ExamBuilder/yazili/
+okul.ganzalora/_app/node_modules/
+okul.ganzalora/_app/dist/
+games.ganzalora/Games/
+games.ganzalora/Ganzy/
+games.ganzalora/Kutup-Ayisi-Ceylan/
+okul.ganzalora/_app/

@@ -1,0 +1,826 @@
+{
+  "9A": [
+    {
+      "no": 82,
+      "ad": "HİRANUR BAYŞU"
+    },
+    {
+      "no": 85,
+      "ad": "BERİTAN NUREDDİNOĞLU"
+    },
+    {
+      "no": 138,
+      "ad": "YASİN KAYA"
+    },
+    {
+      "no": 189,
+      "ad": "SİDRESU TOKATLI"
+    },
+    {
+      "no": 198,
+      "ad": "ERDEM BİRİNCİ"
+    },
+    {
+      "no": 208,
+      "ad": "HAYAL BEKTAŞ"
+    },
+    {
+      "no": 218,
+      "ad": "YAĞMUR BEKTAŞ"
+    },
+    {
+      "no": 220,
+      "ad": "ZEHRA ALIR"
+    },
+    {
+      "no": 232,
+      "ad": "HÜSEYİN EFE AKDAĞ"
+    },
+    {
+      "no": 245,
+      "ad": "HİRA KARAKUŞ"
+    },
+    {
+      "no": 258,
+      "ad": "MERYEM TOP"
+    },
+    {
+      "no": 276,
+      "ad": "DİLAN ALKAN"
+    },
+    {
+      "no": 296,
+      "ad": "BURAK YILDIZ"
+    },
+    {
+      "no": 300,
+      "ad": "YUSUF CAN DEMİR"
+    },
+    {
+      "no": 307,
+      "ad": "SAMİ ÇİFTÇİ"
+    },
+    {
+      "no": 387,
+      "ad": "ÖMER FARUK ALABACAK"
+    },
+    {
+      "no": 405,
+      "ad": "ERSİN YANKIN"
+    },
+    {
+      "no": 418,
+      "ad": "POYRAZ UZUN"
+    },
+    {
+      "no": 497,
+      "ad": "GÜNEŞ BABUR"
+    },
+    {
+      "no": 499,
+      "ad": "YAREN TUANA BOZKAYA"
+    },
+    {
+      "no": 598,
+      "ad": "ALEYNA GÜLER"
+    },
+    {
+      "no": 958,
+      "ad": "YUNUS EMRE YILDIRIM"
+    },
+    {
+      "no": 1058,
+      "ad": "GÜLCAN ÖZCAN"
+    },
+    {
+      "no": 1202,
+      "ad": "BERAT GÜNGÖR"
+    },
+    {
+      "no": 1217,
+      "ad": "YUSUF SAMİ CAN"
+    },
+    {
+      "no": 1467,
+      "ad": "HAVA NUR AKÇAY"
+    },
+    {
+      "no": 1588,
+      "ad": "SÜKEYNA ALTINTOP"
+    },
+    {
+      "no": 1737,
+      "ad": "MEDİNE DEMİR"
+    },
+    {
+      "no": 1749,
+      "ad": "ZEYNEP DADAŞ"
+    },
+    {
+      "no": 1856,
+      "ad": "EMİRHAN HASDEMİR"
+    },
+    {
+      "no": 1873,
+      "ad": "MEDİNE ARSLANER"
+    },
+    {
+      "no": 1892,
+      "ad": "EREN GÜNEYİ"
+    },
+    {
+      "no": 1989,
+      "ad": "EMRE YILDIRIM"
+    },
+    {
+      "no": 2008,
+      "ad": "ENBİYA KAYA"
+    },
+    {
+      "no": 2858,
+      "ad": "AHMET EMİN BALIKÇI"
+    },
+    {
+      "no": 5005,
+      "ad": "CEREN DURMAZ"
+    }
+  ],
+  "9B": [
+    {
+      "no": 239,
+      "ad": "GÜNEŞ KARATAŞ"
+    },
+    {
+      "no": 784,
+      "ad": "SAMET ÇELİK"
+    },
+    {
+      "no": 794,
+      "ad": "FİLİZ ÇİRAY"
+    },
+    {
+      "no": 795,
+      "ad": "MEDİNE KARABAŞ"
+    },
+    {
+      "no": 888,
+      "ad": "HALİLİBRAHİM HARBUTOĞLU"
+    },
+    {
+      "no": 926,
+      "ad": "CAN MUHAMMED ERDEM"
+    },
+    {
+      "no": 937,
+      "ad": "UMUT ERDEM AÇAN"
+    },
+    {
+      "no": 988,
+      "ad": "BEDİRHAN TÜRKMEN"
+    },
+    {
+      "no": 1128,
+      "ad": "ASYA EKİNCİ"
+    },
+    {
+      "no": 1402,
+      "ad": "MUSA ATMACA"
+    },
+    {
+      "no": 1422,
+      "ad": "EYÜPHAN TURAN"
+    },
+    {
+      "no": 1432,
+      "ad": "FURKAN ŞANLI"
+    },
+    {
+      "no": 1448,
+      "ad": "MERT CAN TARHAN"
+    },
+    {
+      "no": 1451,
+      "ad": "HÜSEYİN ALÇİÇEK"
+    },
+    {
+      "no": 1469,
+      "ad": "IŞIL ARSLAN"
+    },
+    {
+      "no": 1471,
+      "ad": "HÜSEYİN BARAN ÇİMEN"
+    },
+    {
+      "no": 1654,
+      "ad": "RÜZGAR SESİGÜR"
+    },
+    {
+      "no": 1722,
+      "ad": "GÜLSÜM TEVRAT BOZKURT"
+    },
+    {
+      "no": 1761,
+      "ad": "MUSTAFA KÜÇÜKSARIYILDIZ"
+    },
+    {
+      "no": 1778,
+      "ad": "YİĞİT CAN YILDIRIM"
+    },
+    {
+      "no": 1818,
+      "ad": "ELİF TORUN"
+    },
+    {
+      "no": 1846,
+      "ad": "MEDİNE GÜNDEN"
+    },
+    {
+      "no": 1875,
+      "ad": "ECRİN HİRA KIZILGEDİK"
+    },
+    {
+      "no": 1922,
+      "ad": "EFE YİĞİT ÇAKAR"
+    },
+    {
+      "no": 2285,
+      "ad": "YUSUF KIRAR"
+    },
+    {
+      "no": 2520,
+      "ad": "ZEYNEP DOĞAN"
+    },
+    {
+      "no": 2562,
+      "ad": "MUHAMMED ALİ DEMİR"
+    },
+    {
+      "no": 2591,
+      "ad": "MUHAMMED TALHA KODAK"
+    },
+    {
+      "no": 2609,
+      "ad": "ATAKAN ÇİÇEK"
+    },
+    {
+      "no": 5006,
+      "ad": "SÜMEYRA SARI"
+    },
+    {
+      "no": 5007,
+      "ad": "ECRİN ÖS"
+    }
+  ],
+  "9C": [
+    {
+      "no": 410,
+      "ad": "NASEM MUHAMAD ABDULGANI"
+    },
+    {
+      "no": 515,
+      "ad": "BUĞRAHAN KOÇYİĞİT"
+    },
+    {
+      "no": 591,
+      "ad": "MARIA ALKATEB"
+    },
+    {
+      "no": 714,
+      "ad": "AYŞENUR YİĞİT"
+    },
+    {
+      "no": 720,
+      "ad": "HAYRU NİSA ÖZTÜRK"
+    },
+    {
+      "no": 742,
+      "ad": "ALİ YILMAZ"
+    },
+    {
+      "no": 760,
+      "ad": "SAMET ATMACA"
+    },
+    {
+      "no": 776,
+      "ad": "YAĞIZ BEKTAŞ"
+    },
+    {
+      "no": 781,
+      "ad": "SERHAT DELEN"
+    },
+    {
+      "no": 791,
+      "ad": "NİDANUR DİLMEN"
+    },
+    {
+      "no": 1511,
+      "ad": "ECEM ÖZDEMİR"
+    },
+    {
+      "no": 1524,
+      "ad": "PELİN DOĞAN"
+    },
+    {
+      "no": 1532,
+      "ad": "EREN ŞAHİN"
+    },
+    {
+      "no": 1624,
+      "ad": "BEKTAŞ ERGİN"
+    },
+    {
+      "no": 1653,
+      "ad": "BERAT DURSUN"
+    },
+    {
+      "no": 1677,
+      "ad": "YAŞAR EMİR ŞİMŞEK"
+    },
+    {
+      "no": 1678,
+      "ad": "BERKAY YAVUZ"
+    },
+    {
+      "no": 1720,
+      "ad": "EMRE ALTUNTAŞ"
+    },
+    {
+      "no": 1741,
+      "ad": "EDA ODABAŞ"
+    },
+    {
+      "no": 1820,
+      "ad": "CANER ERDOĞAN"
+    },
+    {
+      "no": 1951,
+      "ad": "BATUHAN EFE TOSUN"
+    },
+    {
+      "no": 2107,
+      "ad": "SEHER KILIÇ"
+    },
+    {
+      "no": 2371,
+      "ad": "ARDA KARACA"
+    },
+    {
+      "no": 2464,
+      "ad": "ERDEM GÜLER"
+    },
+    {
+      "no": 2478,
+      "ad": "YUNUS EMRE GÜN"
+    },
+    {
+      "no": 2480,
+      "ad": "ÖZGÜN ALINAK"
+    },
+    {
+      "no": 2517,
+      "ad": "EGEHAN YURTSEVEN"
+    },
+    {
+      "no": 2585,
+      "ad": "EDANUR DURSUN"
+    },
+    {
+      "no": 2603,
+      "ad": "SÜMEYYE PİRİÇCİ"
+    },
+    {
+      "no": 2651,
+      "ad": "EMRE AYDIN"
+    },
+    {
+      "no": 2679,
+      "ad": "SEYİT EYÜP BEYTÜT"
+    },
+    {
+      "no": 2873,
+      "ad": "AHMET MİRAN ÖZDEMİR"
+    },
+    {
+      "no": 6060,
+      "ad": "ÇINAR KANISICAK"
+    }
+  ],
+  "9D": [
+    {
+      "no": 66,
+      "ad": "İBRAHİM TAŞDEMİR"
+    },
+    {
+      "no": 68,
+      "ad": "KADİR CAN GÖZCÜ"
+    },
+    {
+      "no": 108,
+      "ad": "RÜZGAR ÇELİKGÜN"
+    },
+    {
+      "no": 115,
+      "ad": "KAAN GÜN"
+    },
+    {
+      "no": 119,
+      "ad": "MEHMET ÖKMEN"
+    },
+    {
+      "no": 175,
+      "ad": "EREN KARATAŞ"
+    },
+    {
+      "no": 177,
+      "ad": "MEHMET ŞERİF BATUR"
+    },
+    {
+      "no": 186,
+      "ad": "TAYFUN TAŞ"
+    },
+    {
+      "no": 191,
+      "ad": "YUSUF EMİR YEL"
+    },
+    {
+      "no": 197,
+      "ad": "EGE DİLEK"
+    },
+    {
+      "no": 199,
+      "ad": "RIDVAN ÇELİK"
+    },
+    {
+      "no": 249,
+      "ad": "YUSUF ASAF AYHAN"
+    },
+    {
+      "no": 312,
+      "ad": "OZAN TALAYHAN"
+    },
+    {
+      "no": 313,
+      "ad": "İLYAS EFE UZUN"
+    },
+    {
+      "no": 316,
+      "ad": "ERKAN ÇELİK"
+    },
+    {
+      "no": 348,
+      "ad": "ALTAN CAN DEMİR"
+    },
+    {
+      "no": 395,
+      "ad": "DEMHAT DİNAR"
+    },
+    {
+      "no": 402,
+      "ad": "MERT ENES AYAS"
+    },
+    {
+      "no": 425,
+      "ad": "VEYSEL ÇELİK"
+    },
+    {
+      "no": 432,
+      "ad": "TOPRAK KUZOLUK"
+    },
+    {
+      "no": 440,
+      "ad": "MUHAMMED TAHA BALCI"
+    },
+    {
+      "no": 441,
+      "ad": "MERT ORDU"
+    },
+    {
+      "no": 458,
+      "ad": "AHMET DANIŞ"
+    },
+    {
+      "no": 603,
+      "ad": "BERKAY MİRAÇ ARSLAN"
+    },
+    {
+      "no": 780,
+      "ad": "BERKAY YILDIRIM"
+    },
+    {
+      "no": 1398,
+      "ad": "ARDA UZUN"
+    },
+    {
+      "no": 2121,
+      "ad": "MURTAZA YILMAZ"
+    },
+    {
+      "no": 2251,
+      "ad": "OMER ABDULNASSER S.L JAMAL ALDN"
+    },
+    {
+      "no": 2792,
+      "ad": "KEREM GANİ AĞA"
+    },
+    {
+      "no": 2801,
+      "ad": "ÖMER PALA"
+    },
+    {
+      "no": 5337,
+      "ad": "BURAK ÇETİN"
+    },
+    {
+      "no": 5340,
+      "ad": "KADİR GÖKAY TÜRK"
+    },
+    {
+      "no": 5342,
+      "ad": "DEVRAN TAŞKIN"
+    },
+    {
+      "no": 5344,
+      "ad": "MERTCAN YAŞAR"
+    },
+    {
+      "no": 5347,
+      "ad": "TURAP AYDOĞAN"
+    }
+  ],
+  "9E": [
+    {
+      "no": 275,
+      "ad": "TAREK IBRAHIM"
+    },
+    {
+      "no": 390,
+      "ad": "MESUT ZAFER"
+    },
+    {
+      "no": 460,
+      "ad": "SÜMEYYE TORUN"
+    },
+    {
+      "no": 495,
+      "ad": "ÇINAR RAMAZAN ÖZBEK"
+    },
+    {
+      "no": 524,
+      "ad": "YUSUF CAN AKTÜRK"
+    },
+    {
+      "no": 702,
+      "ad": "HAMZA CEYLAN"
+    },
+    {
+      "no": 711,
+      "ad": "YAVUZ KOÇ"
+    },
+    {
+      "no": 755,
+      "ad": "EFE DUYAR"
+    },
+    {
+      "no": 805,
+      "ad": "ENGİN EROL"
+    },
+    {
+      "no": 850,
+      "ad": "AHMET EMİR DEMİR"
+    },
+    {
+      "no": 947,
+      "ad": "UMUTCAN ÇUBUKCU"
+    },
+    {
+      "no": 980,
+      "ad": "ZÜBEYİR TÜRKMEN"
+    },
+    {
+      "no": 1028,
+      "ad": "BERAT SARIBULAK"
+    },
+    {
+      "no": 1044,
+      "ad": "MEHMET EMİN ÖZDEMİR"
+    },
+    {
+      "no": 1054,
+      "ad": "OZAN ARAS"
+    },
+    {
+      "no": 1083,
+      "ad": "HÜSEYİN AKIN ARAS"
+    },
+    {
+      "no": 1087,
+      "ad": "BARAN ÇELİK"
+    },
+    {
+      "no": 1207,
+      "ad": "NUH EFE ATAGÜL"
+    },
+    {
+      "no": 1239,
+      "ad": "İSLAM GÜNDÜZ"
+    },
+    {
+      "no": 1241,
+      "ad": "YİĞİT HAN"
+    },
+    {
+      "no": 1250,
+      "ad": "YASİN DOĞAN"
+    },
+    {
+      "no": 1291,
+      "ad": "YİĞİT CAN AKKAYA"
+    },
+    {
+      "no": 1295,
+      "ad": "ONUR GÜL"
+    },
+    {
+      "no": 1410,
+      "ad": "İSA DEĞİRMENCİ"
+    },
+    {
+      "no": 1434,
+      "ad": "YİĞİT EFE KAHRİMAN"
+    },
+    {
+      "no": 1529,
+      "ad": "ALİ ŞENSES"
+    },
+    {
+      "no": 1564,
+      "ad": "ARDA KASNAKCİ"
+    },
+    {
+      "no": 2125,
+      "ad": "İBRAHİM ŞAHİN"
+    },
+    {
+      "no": 2234,
+      "ad": "ÖMER KAYMAZ"
+    },
+    {
+      "no": 2236,
+      "ad": "MAHMUD HALİS ÖZER"
+    },
+    {
+      "no": 2309,
+      "ad": "MAHMUT SÖNMEZ"
+    },
+    {
+      "no": 2332,
+      "ad": "NAREN ERDAŞ"
+    },
+    {
+      "no": 2346,
+      "ad": "ELA İFFET ATİKBOĞA"
+    },
+    {
+      "no": 2413,
+      "ad": "OĞUZHAN CİNGÖZ"
+    },
+    {
+      "no": 2483,
+      "ad": "AYAZ YILMAZ"
+    }
+  ],
+  "9G": [
+    {
+      "no": 1003,
+      "ad": "HAYRETTİN ŞİT"
+    },
+    {
+      "no": 1153,
+      "ad": "UMUT BALLİ"
+    },
+    {
+      "no": 1228,
+      "ad": "DOĞAN KARA"
+    },
+    {
+      "no": 1598,
+      "ad": "SAMET KIR"
+    },
+    {
+      "no": 1648,
+      "ad": "İLKER ÇAKAZ"
+    },
+    {
+      "no": 1649,
+      "ad": "MUHAMMED HARUN ALTAŞER"
+    },
+    {
+      "no": 1676,
+      "ad": "MUSTAFA GÜLER"
+    },
+    {
+      "no": 1713,
+      "ad": "YUSUF DOĞAN"
+    },
+    {
+      "no": 1751,
+      "ad": "BARAN YILMAZ"
+    },
+    {
+      "no": 1754,
+      "ad": "MUHAMMED YASİN CEYLAN"
+    },
+    {
+      "no": 1867,
+      "ad": "YUSUF BULDUK"
+    },
+    {
+      "no": 1932,
+      "ad": "BERAT ÖZER"
+    },
+    {
+      "no": 1958,
+      "ad": "MUHAMMED KERİM İLBEY"
+    },
+    {
+      "no": 2043,
+      "ad": "HARUN BAKIRANLI"
+    },
+    {
+      "no": 2053,
+      "ad": "HASAN YILMAZ"
+    },
+    {
+      "no": 2066,
+      "ad": "OSMAN BİÇER"
+    },
+    {
+      "no": 2071,
+      "ad": "EYÜPHAN YAKUT"
+    },
+    {
+      "no": 2090,
+      "ad": "MEHMET YILDIRIM"
+    },
+    {
+      "no": 2142,
+      "ad": "EFE ŞENOĞLU"
+    },
+    {
+      "no": 2162,
+      "ad": "YUSUF BİÇEN"
+    },
+    {
+      "no": 2171,
+      "ad": "HÜSEYİN AKTAŞ"
+    },
+    {
+      "no": 2195,
+      "ad": "HASAN AKTAŞ"
+    },
+    {
+      "no": 2210,
+      "ad": "KEMAL CAN ALBAYRAK"
+    },
+    {
+      "no": 2320,
+      "ad": "ERDEM DAŞTAN"
+    },
+    {
+      "no": 2772,
+      "ad": "YAVUZ SELİM ŞANVER"
+    },
+    {
+      "no": 2783,
+      "ad": "BATUHAN DEMİR"
+    },
+    {
+      "no": 2827,
+      "ad": "EGE ÖZDEMİR"
+    },
+    {
+      "no": 2830,
+      "ad": "AZMİ AĞCA"
+    },
+    {
+      "no": 2832,
+      "ad": "ASLAN HAMZA PERDAL"
+    },
+    {
+      "no": 2845,
+      "ad": "SAMET BOZKURT"
+    },
+    {
+      "no": 2900,
+      "ad": "KENAN YANIK"
+    },
+    {
+      "no": 5351,
+      "ad": "İSHAK ÖNER"
+    },
+    {
+      "no": 5352,
+      "ad": "SILA GÜNEŞ"
+    }
+  ]
+}
